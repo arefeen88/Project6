@@ -1,0 +1,3 @@
+Im learning Java.
+In few weeks time im going to start Selenium with framework .
+I have midterm after a week or so.Im learning code from codelab.
